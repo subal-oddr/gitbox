@@ -1,3 +1,4 @@
 Contents file
 
 c1
+c2
